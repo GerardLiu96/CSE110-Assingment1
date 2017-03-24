@@ -1,5 +1,5 @@
 /*This file is Homepage Style.css */
-body { background-image: url(file:///gerardliu96.github.io/CSE110-Assingment1/5.1.jpg); font-size: 14px; } 
+body { background-image: url(5.1.jpg); font-size: 14px; } 
 #headers { margin-right:15%;width: 64%;float:right; position: relative; background: #D3D3D3;}
 .Tiul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
 .Tili{float:left;background-color:#bebebe;}
