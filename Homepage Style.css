@@ -16,7 +16,7 @@ text-transform:uppercase;
 }
 .Ta:hover,.Ta:active{background-color:#F08080;}
 #bodypage{width:100%;}
-.left-nav{line-height:35px;background-color:#eeeeee;height:900px;width:250px;float:left;padding:5px;margin-top:8%;background:rgba(230,230,250,0.8);}
+.left-nav{line-height:35px;background-color:#eeeeee;height:900px;width:250px;float:left;padding:5px;margin-right:0; margin-top:8%;background:rgba(230,230,250,0.8);}
 .lbh{font-size:24px; text-align:center}
 .lbp{font-size:20px;margin-left:10%;margin-top:5%}
 .lbul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
