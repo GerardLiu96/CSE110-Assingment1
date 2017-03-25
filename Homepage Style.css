@@ -16,7 +16,7 @@ text-transform:uppercase;
 }
 .Ta:hover,.Ta:active{background-color:#F08080;}
 #bodypage{width:100%;}
-.left-nav{line-height:35px;background-color:#eeeeee;height:900px;width:250px;float:left;padding:5px; margin-top:8%;background:rgba(230,230,250,0.8);}
+.left-nav{line-height:35px;background-color:#eeeeee;height:900px;width:14%;float:left;padding:5px; margin-top:8%;background:rgba(230,230,250,0.8);}
 .lbh{font-size:24px; text-align:center}
 .lbp{font-size:20px;margin-left:10%;margin-top:5%}
 .lbul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
@@ -28,7 +28,7 @@ text-transform:uppercase;
 .h-right-col{
 	line-height:40px;width:60%;
 	min-height:900px;
-    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-24.5%;}
+    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-23.5%;}
 .hrbp{margin-left:5%;margin-top:5%;font-size:20px;text-align:left;}
 .hp{float:right;width:35%;height:35%;margin-top:-50%;margin-right:3%}
 .Tb{margin-top:10%;
@@ -39,9 +39,9 @@ text-transform:uppercase;
 .Tdh{border: 1px solid black;padding:5px}
 
 .right-col{
-	line-height:40px;width:60%;
+	line-height:40px;width:50%;
 	min-height:900px;
-    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-42%;}
+    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-38%;}
 .rbp{font-size:20px;}
 .bdl{list-style-type:none;}
 .bdt{font-size:20px;color: #666;line-height:50px;}
@@ -56,11 +56,11 @@ text-transform:uppercase;
 #footer { background-color:black;
 padding-top:10px;
 color:black;
-height:200px;width:143%;margin-left:0;
+height:180px;width:200%;
 position: absolute; 
 bottom: 0; 
-left:0;
+left:-50%;
 right:0;
-text-align:center;}
+text-align:center;margin:0}
 .bottom-info {color: #9a9a9a; font-size: 12px; line-height: 25px; }
 .bottom-info a { color: #9a9a9a; }
