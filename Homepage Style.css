@@ -28,7 +28,7 @@ text-transform:uppercase;
 .h-right-col{
 	line-height:40px;width:60%;
 	min-height:900px;
-    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-23.5%;}
+    padding-bottom:10%;background:rgba(230,230,250,0.8);padding-left:20px;float:left;position:absolute; margin-left:15%; margin-top:-15%;}
 .hrbp{margin-left:5%;margin-top:5%;font-size:20px;text-align:left;}
 .hp{float:right;width:35%;height:35%;margin-top:-50%;margin-right:3%}
 .Tb{margin-top:10%;
