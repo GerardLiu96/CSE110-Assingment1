@@ -1,0 +1,74 @@
+/*This file is Homepage Style.css */
+body { background-image: url(5.1.jpg); font-size: 14px; } 
+#headers { margin-right:15%;width: 64%;float:right; position: relative;}
+.Tiul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
+.Tili{float:left;background-color:#bebebe;}
+.Tilic{float:left;background-color:#F08080;}
+.Ta:link,.Ta:visited
+{display:block;
+width:300px;
+font-weight:bold;
+color:#FFFFFF;
+text-align:center;
+padding:10px;
+text-decoration:none;
+text-transform:uppercase;
+}
+.Ta:hover,.Ta:active{background-color:#F08080;}
+#bodypage{width:100%;font-weight:bold;min-height:900px;}
+.left-nav{line-height:35px;background-color:#eeeeee;height:1100px;width:18%;float:left;padding:5px;margin-top:8%;background:rgba(230,230,250,0.8);}
+.lbh{font-size:24px; text-align:center}
+.lbp{font-size:20px;margin-left:10%;margin-top:5%}
+.lbul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
+.lbli{float:right;background-color:#bebebe;letter-spacing:3px;text-align:right}
+.lblic{float:right;background-color:#F08080;letter-spacing:3px;text-align:right}
+.lba:link,.lba:visited{display:block;width:200px;height:100px;color:#FFFFFF;text-align:center;padding:10px;text-decoration:none;font-size:22px}
+.lba:hover,.lba:active{background-color:#F08080;}
+.clearfix { clear: both; }
+.h-right-col{
+	line-height:40px;width:75%;
+	min-height:700px;
+    padding-bottom:200px;padding-left:20px;float:left;position:absolute; margin-left:20%;margin-top:7%;background:rgba(230,230,250,0.8)}
+.hrbp{margin-left:5%;margin-top:5%;font-size:20px;text-align:left;}
+.hp{float:right;width:35%;height:35%;margin-top:-50%;margin-right:3%}
+.Tb{margin-top:10%;
+	border: 2px solid black;
+	width:98%;
+	font-size:24px;
+	padding:5px}
+.Tdh{border: 1px solid black;padding:5px}
+
+.right-col{
+	line-height:40px;width:73%;
+	min-height:900px;
+    padding-bottom:200px;padding-left:20px;float:left;position:absolute; margin-left:20%; margin-top:7%;background:rgba(230,230,250,0.8)}
+.rbp{font-size:20px;}
+.bdl{list-style-type:none;}
+.bdt{font-size:20px;color: #666;line-height:50px;}
+.rbul{list-style-type:none;}
+.rbli{font-size:20px;color: #666;line-height:50px;}
+.rp{width:50%;height:50%;}
+.brp{width:30%;height:30%;}
+.ctright-col{line-height:40px;width:75%;
+	min-height:900px;
+    padding-bottom:200px;padding-left:20px;float:left;position:absolute; margin-left:20%; margin-top:7%;background:rgba(230,230,250,0.8)}
+
+.clearfix { clear: both; }
+
+.bottom-info { padding: 50px 0; color: #9a9a9a; font-size: 12px; line-height: 25px; }
+.bottom-info a { color: #9a9a9a; }
+.small_png {margin-left: 12%; width:82%;}
+.small_jpg{ float: left;}
+.home_p{margin-left:7%; width: 52%;}
+
+
+#footer { background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+	height:10%;
+	margin-top:40%;
+	position:relative;}
+.bottom-info {color: #9a9a9a; font-size: 12px; line-height: 25px; }
+.bottom-info a { color: #9a9a9a; }
